@@ -28,7 +28,7 @@
             "legend" : "i suscrit pour q"
         },
         {
-            "row": 1,
+            "row": 0,
             "column": 4,
             "character": "\u2e17",
             "legend": "hyphenation double oblique"
