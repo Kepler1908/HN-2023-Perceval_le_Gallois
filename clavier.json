@@ -1,0 +1,67 @@
+{
+    "version": "0.1",
+    "name": "clavier-virtuel-perceval",
+    "author": "",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "¶",
+            "legend": "pied-de-mouche"
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "\u0303",
+            "legend": "tilde horizontal pour aeo"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "\u0304",
+            "legend" : "macron pour q"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "\u0365",
+            "legend" : "i suscrit pour q"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "\u2e17",
+            "legend": "hyphenation double oblique"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "ſ",
+            "legend" : "s allongé"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "ꝛ",
+            "legend" : "r de ronde"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "⁊",
+            "legend" : "symbole pour et"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ꝰ",
+            "legend" : "symbole pour -us"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "\u1DD1",
+            "legend" : "symbole pour -ur"
+        }
+    ]
+}
