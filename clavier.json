@@ -18,20 +18,20 @@
         {
             "row": 0,
             "column": 2,
-            "character": "\u0304",
-            "legend" : "macron pour q"
-        },
-        {
-            "row": 0,
-            "column": 3,
             "character": "\u0365",
             "legend" : "i suscrit pour q"
         },
         {
             "row": 0,
-            "column": 4,
+            "column": 3,
             "character": "\u2e17",
             "legend": "hyphenation double oblique"
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "ꝑ",
+            "legend" : "p barré pour per/par"
         },
         {
             "row": 1,
