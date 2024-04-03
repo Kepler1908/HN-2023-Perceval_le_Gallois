@@ -9,7 +9,7 @@ Le manuscrit choisi dans ce projet est [Perceval Le Gallois éd. de 1530](https:
 - `data/` : les fichiers ALTO exportés depuis eScriptorium sous format de `.xml`
 - `rapport/` : le rapport final de projet
 - `source/` : les textes originaux bruts sous format `.jpg` et `.pdf` 
-- `transcriptions/` : la transcription brute et la transcription standardisée
+- `transcriptions/` : la transcription sous format `.txt`
 - `clavier.json` : clavier destiné à saisir les caractères spéciaux pendant la transcription sur eScriptorium
 - `manifest_perceval_reduit_13_21.json` : le manifeste de folios choisis
 
