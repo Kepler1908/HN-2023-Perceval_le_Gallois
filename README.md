@@ -14,7 +14,7 @@ Le manuscrit choisi dans ce projet est [Perceval Le Gallois éd. de 1530](https:
 - `clavier.json` : clavier destiné à saisir les caractères spéciaux pendant la transcription sur eScriptorium
 - `manifest_perceval_reduit_13_21.json` : le manifeste de folios choisis
 
-# Auteur
+# Auteurs
 
 - [Donghan BIAN](https://github.com/Kepler1908)
 - [Gaëtan DROUET](https://github.com/GaetanDrouet)
